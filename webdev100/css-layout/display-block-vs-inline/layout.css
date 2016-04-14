@@ -4,5 +4,11 @@
 
 .color {
   margin: 1em;
+/*  border: 1px solid black;
+*/  text-align: center;
 }
 
+.color img {
+  display: block;
+  margin: 0 auto;
+}
