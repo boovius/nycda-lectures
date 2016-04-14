@@ -1,0 +1,25 @@
+.container {
+  margin: 0 auto;
+}
+
+.footer {
+  text-align: center;
+}
+
+#colors-info-wrapper {
+  margin-top: 1em;
+}
+
+#colors {
+  float: left;
+  margin-right: 2em;
+}
+
+.color {
+  margin-bottom: 1em;
+}
+
+#summary {
+  float: left;
+  width: 50%;
+}
