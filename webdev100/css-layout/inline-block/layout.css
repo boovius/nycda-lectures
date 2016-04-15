@@ -1,0 +1,35 @@
+.container {
+  margin: 0 auto;
+  border: none;
+}
+
+.footer {
+  text-align: center;
+}
+
+#colors-info-wrapper {
+  margin-top: 1em;
+}
+
+#colors {
+  margin-right: 2em;
+  display: inline-block;
+}
+
+.color {
+  width: inherit;
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+#summary {
+  width: 50%;
+  display: inline-block;
+}
+
+/*.clearfix:after {
+  clear: both;
+  content: '';
+  display: table;
+}*/
+
