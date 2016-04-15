@@ -1,6 +1,6 @@
 .container {
   width: 50%;
-  /*border: 1px solid black;*/
+  border: 1px solid black;
   padding: 1em;
 }
 
@@ -10,10 +10,9 @@
 
 .color {
   text-align: center;
-/*  border: 1px solid black;
   margin: 1em;
   width: 50%;
-*/}
+}
 
 .color img {
   width: 100px;
@@ -27,9 +26,4 @@
   font-weight: bold;
 }
 
-.clearfix:after {
-  clear: both;
-  content: '';
-  display: table;
-}
 

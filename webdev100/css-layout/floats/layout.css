@@ -1,5 +1,6 @@
 .container {
   margin: 0 auto;
+  border: none;
 }
 
 .footer {
@@ -16,10 +17,18 @@
 }
 
 .color {
+  width: inherit;
+  margin: 0;
   margin-bottom: 1em;
 }
 
 #summary {
   float: left;
   width: 50%;
+}
+
+.clearfix:after {
+  clear: both;
+  content: '';
+  display: table;
 }
