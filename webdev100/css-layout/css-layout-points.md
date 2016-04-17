@@ -32,6 +32,7 @@ Examining page layout methods with CSS
 ---
 
 - Floats vs Inline-Block
+http://designshack.net/articles/css/whats-the-deal-with-display-inline-block/
 
 ---
 
@@ -41,5 +42,15 @@ Examining page layout methods with CSS
 ---
 
 - Flexbox
+
+---
+
+- Homework:
+ - create a navbar use floats (try float right) and clearfix
+ - use display inline-block to create a small image gallery (the images can be simple divs with different bg colors)
+ - create a fixed sidebar
+ - absolutely position a footer to the bottom of the document
+ - below the image gallery, offset a 'parent' div 100 px to the right and down of where it would sit in the normal flow of the document with relative positioning 
+ - absolutely position a 'child' div to the top-right of the 'parent' div
 
 ---
