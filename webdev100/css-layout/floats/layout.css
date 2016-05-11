@@ -12,8 +12,8 @@
 }
 
 #colors {
-  float: left;
-  margin-right: 2em;
+  /*margin-right: 2em;*/
+  display: inline-block;
 }
 
 .color {
@@ -23,8 +23,13 @@
 }
 
 #summary {
-  float: left;
   width: 50%;
+  display: inline-block;
+}
+
+#newstuff {
+  background-color: #888;
+  clear: both;
 }
 
 .clearfix:after {
